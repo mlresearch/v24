@@ -18,13 +18,14 @@ abstract: "We consider the problem of learning high-performance Exploration/Expl
   the results are promising."
 pdf: "./castronovo12a/castronovo12a.pdf"
 layout: inproceedings
-key: castronovo12a
+id: castronovo12a
 month: 0
 firstpage: 1
 lastpage: 10
+page: 1-10
 origpdf: http://jmlr.org/proceedings/papers/v24/castronovo12a/castronovo12a.pdf
 sections: 
-authors:
+author:
 - given: Michael
   family: Castronovo
 - given: Francis
@@ -33,4 +34,6 @@ authors:
   family: Fonteneau
 - given: Damien
   family: Ernst
+date: '2013-01-12 00:00:01'
+publisher: PMLR
 ---

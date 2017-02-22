@@ -19,11 +19,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: DeisenrothEWRL2012
+id: DeisenrothEWRL2012
 abstract: 
 origpdf: 
 pdf: "./DeisenrothEWRL2012/DeisenrothEWRL2012.pdf"
-editors:
+editor:
 - given: Marc Peter
   family: Deisenroth
 - given: Csaba
