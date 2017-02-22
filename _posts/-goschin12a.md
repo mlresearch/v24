@@ -1,0 +1,29 @@
+---
+title: Planning in Reward-Rich Domains via PAC Bandits
+abstract: In some decision-making environments, successful solutions are common. If
+  the evaluation of candidate solutions is noisy, however, the challenge is knowing
+  when a ``good enough'' answer has been found. We formalize this problem as an infinite-armed
+  bandit and provide upper and lower bounds on the number of evaluations or ``pulls''
+  needed to identify a solution whose evaluation exceeds a given threshold r0 . We
+  present several algorithms and use them to identify reliable strategies for solving
+  screens from the video games \emph{Infinite Mario} and \emph{Pitfall}! We show order
+  of magnitude improvements in sample complexity over a natural approach that pulls
+  each arm until a good estimate of its success probability is known.
+pdf: "./goschin12a/goschin12a.pdf"
+layout: inproceedings
+key: goschin12a
+month: 0
+firstpage: 25
+lastpage: 42
+origpdf: http://jmlr.org/proceedings/papers/v24/goschin12a/goschin12a.pdf
+sections: 
+authors:
+- given: Sergiu
+  family: Goschin
+- given: Ari
+  family: Weinstein
+- given: Michael L.
+  family: Littman
+- given: Erick
+  family: Chastain
+---
