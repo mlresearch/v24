@@ -1,8 +1,7 @@
 # Site settings
 # Auto generated from v24.bib
 ---
-booktitle: Proceedings of the Tenth European Workshop on Reinforcement Learning  June,
-  2012, Edinburgh, Scotland
+booktitle: Proceedings of the Tenth European Workshop on Reinforcement Learning
 logoright: ewrl_logo.jpg
 publisher: JMLR Workshop and Conference Proceedings
 volume: 24
@@ -30,13 +29,11 @@ editor:
   family: Szepesv\'ari
 - given: Jan
   family: Peters
-title: Proceedings of the Tenth European Workshop on Reinforcement Learning  June,
-  2012, Edinburgh, Scotland
-conference: Proceedings of the Tenth European Workshop on Reinforcement Learning  June,
-  2012, Edinburgh, Scotland
+title: Proceedings of the Tenth European Workshop on Reinforcement Learning
+conference: Proceedings of the Tenth European Workshop on Reinforcement Learning
 email: ''
-description: Proceedings of the Tenth European Workshop on Reinforcement Learning  June,
-  2012, Edinburgh, Scotland, Edinburgh, Scotland
+description: Proceedings of the Tenth European Workshop on Reinforcement Learning,
+  Edinburgh, Scotland
 url: http://proceedings.mlr.press
 baseurl: "/v24"
 twitter_username: mlresearch
