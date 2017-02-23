@@ -20,6 +20,7 @@ author:
 - given: Jan
   family: Peters
 date: 2013-01-12
+address: Edinburgh, Scotland
 publisher: PMLR
 container-title: Proceedings of the Tenth European Workshop on Reinforcement Learning
 volume: '24'
