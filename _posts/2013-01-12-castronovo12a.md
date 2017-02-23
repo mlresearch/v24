@@ -16,7 +16,7 @@ abstract: "We consider the problem of learning high-performance Exploration/Expl
   bandit problem, each arm being associated with a formula. We experimentally compare
   the performances of the approach with R-max as well as with -Greedy strategies and
   the results are promising."
-pdf: "./castronovo12a/castronovo12a.pdf"
+pdf: http://proceedings.pmlr.press/castronovo12a/castronovo12a.pdf
 layout: inproceedings
 id: castronovo12a
 month: 0
@@ -34,6 +34,15 @@ author:
   family: Fonteneau
 - given: Damien
   family: Ernst
-date: '2013-01-12 00:00:01'
+date: 2013-01-12
 publisher: PMLR
+container-title: Proceedings of the Tenth European Workshop on Reinforcement Learning
+volume: '24'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2013
+  - 1
+  - 12
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
