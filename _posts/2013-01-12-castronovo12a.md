@@ -16,14 +16,13 @@ abstract: "We consider the problem of learning high-performance Exploration/Expl
   bandit problem, each arm being associated with a formula. We experimentally compare
   the performances of the approach with R-max as well as with -Greedy strategies and
   the results are promising."
-pdf: http://proceedings.pmlr.press/castronovo12a/castronovo12a.pdf
+pdf: http://jmlr.org/proceedings/papers/v24/castronovo12a/castronovo12a.pdf
 layout: inproceedings
 id: castronovo12a
 month: 0
 firstpage: 1
 lastpage: 10
 page: 1-10
-origpdf: http://jmlr.org/proceedings/papers/v24/castronovo12a/castronovo12a.pdf
 sections: 
 author:
 - given: Michael
@@ -34,6 +33,7 @@ author:
   family: Fonteneau
 - given: Damien
   family: Ernst
+reponame: v24
 date: 2013-01-12
 address: Edinburgh, Scotland
 publisher: PMLR

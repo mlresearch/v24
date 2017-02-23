@@ -19,8 +19,6 @@ sections:
 layout: proceedings
 id: DeisenrothEWRL2012
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/DeisenrothEWRL2012/DeisenrothEWRL2012.pdf
 editor:
 - given: Marc Peter
   family: Deisenroth

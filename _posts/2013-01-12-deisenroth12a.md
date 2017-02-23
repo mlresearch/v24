@@ -2,7 +2,7 @@
 title: Preface
 abstract: Preface to the Proceedings of the Tenth European Workshop on Reinforcement
   Learning June, 2012, Edinburgh, Scotland.
-pdf: http://proceedings.pmlr.press/deisenroth12a/deisenroth12a.pdf
+pdf: http://jmlr.org/proceedings/papers/v24/deisenroth12a/deisenroth12a.pdf
 section: preface
 layout: inproceedings
 id: deisenroth12a
@@ -10,7 +10,6 @@ month: 0
 firstpage: 0
 lastpage: 0
 page: 0-0
-origpdf: http://jmlr.org/proceedings/papers/v24/deisenroth12a/deisenroth12a.pdf
 sections: 
 author:
 - given: Marc Peter
@@ -19,6 +18,7 @@ author:
   family: Szepesvári
 - given: Jan
   family: Peters
+reponame: v24
 date: 2013-01-12
 address: Edinburgh, Scotland
 publisher: PMLR
