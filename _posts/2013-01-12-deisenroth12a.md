@@ -8,9 +8,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: deisenroth12a
 month: 0
-firstpage: 0
-lastpage: 0
-page: 0-0
+firstpage: i
+lastpage: i
+page: i-i
 sections: 
 author:
 - given: Marc Peter
