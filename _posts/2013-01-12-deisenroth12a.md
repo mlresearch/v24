@@ -5,6 +5,7 @@ abstract: Preface to the Proceedings of the Tenth European Workshop on Reinforce
 pdf: http://proceedings.mlr.press/v24/deisenroth12a/deisenroth12a.pdf
 section: preface
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: deisenroth12a
 month: 0
 firstpage: 0

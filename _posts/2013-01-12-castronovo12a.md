@@ -18,6 +18,7 @@ abstract: "We consider the problem of learning high-performance Exploration/Expl
   the results are promising."
 pdf: http://proceedings.mlr.press/v24/castronovo12a/castronovo12a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: castronovo12a
 month: 0
 firstpage: 1
