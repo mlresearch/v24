@@ -21,6 +21,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: castronovo12a
 month: 0
+tex_title: Learning Exploration/Exploitation Strategies for Single Trajectory Reinforcement
+  Learning
 firstpage: 1
 lastpage: 10
 page: 1-10

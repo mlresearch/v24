@@ -8,6 +8,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: deisenroth12a
 month: 0
+tex_title: Preface
 firstpage: i
 lastpage: i
 page: i-i

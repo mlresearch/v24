@@ -18,6 +18,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: DeisenrothEWRL2012
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Marc Peter
   family: Deisenroth
@@ -25,7 +27,6 @@ editor:
   family: Szepesvári
 - given: Jan
   family: Peters
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Tenth European Workshop on Reinforcement Learning
     Held in Edinburgh, Scotland on 30 June to 01 July 2012
