@@ -40,6 +40,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 30 Jun--01 Jul
 url: http://proceedings.mlr.press
 baseurl: "/v24"
 twitter_username: mlresearch
@@ -49,6 +50,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v24
+bibtex_copy: true
 email: ''
 conference:
   name: European Workshop on Reinforcement Learning
