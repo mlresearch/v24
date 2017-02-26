@@ -20,6 +20,7 @@ id: DeisenrothEWRL2012
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Marc Peter
   family: Deisenroth
@@ -50,9 +51,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v24
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: European Workshop on Reinforcement Learning

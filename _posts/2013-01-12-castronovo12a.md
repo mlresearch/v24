@@ -26,7 +26,8 @@ tex_title: Learning Exploration/Exploitation Strategies for Single Trajectory Re
 firstpage: 1
 lastpage: 10
 page: 1-10
-sections: 
+order: 1
+cycles: false
 author:
 - given: Michael
   family: Castronovo
