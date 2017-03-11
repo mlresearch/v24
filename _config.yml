@@ -64,6 +64,7 @@ conference:
   dates:
   - 2012-06-30
   - 2012-07-01
+  number: 10
 analytics:
   google:
     tracking_id: UA-92432422-1
